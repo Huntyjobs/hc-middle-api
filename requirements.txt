@@ -1,0 +1,9 @@
+# app
+fastapi~=0.75.0
+uvicorn~=0.17.5
+pydantic==1.9
+
+# GCP AUTH
+google-auth==2.5.0
+requests==2.27.1
+
